@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-systemair-ventilator",
-  "version": "1.1.7",
+  "name": "homebridge-systemair-ventilator-2",
+  "version": "1.1.8",
   "description": "A Homebridge plugin for controlling Systemair Ventilators.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wdpk88/homebridge-systemair-ventilator.git"
+    "url": "https://github.com/berkus/homebridge-systemair-ventilator.git"
   },
   "keywords": [
     "homebridge-plugin",
